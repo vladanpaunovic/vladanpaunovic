@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladanpaunovic&layout=compact)
 
-![Visits Badge](https://badges.pufler.dev/visits/vladanpaunovic/vladanpaunovic)
-
 
 
 
